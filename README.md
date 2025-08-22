@@ -1,7 +1,5 @@
 # LLaMA-Factory / Select2Reason 使用说明（README）
 
-本仓库文档指导你在 **LLaMA-Factory** 框架下完成环境搭建、模型下载、训练与测评。示例以 **Qwen/Qwen2.5-Math-7B-Instruct** 为例，可按需替换为你的模型与路径。
-
 ---
 
 ## 目录
@@ -191,4 +189,3 @@ LLaMA-Factory/
 
 ---
 
-如需将此 README 适配到你的具体服务器路径和数据集命名，我可以直接替你替换并生成一份最终可用版本。
